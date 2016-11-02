@@ -16,6 +16,7 @@
     "eqeqeq": 1
   },
   "plugins": [
-    //you can put plugins here
-  ]
+    "react"
+  ],
+  "extends": "airbnb",
 }
